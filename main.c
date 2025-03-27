@@ -1,8 +1,4 @@
 /**
- * Andre Giske
- * andre.giske@yahoo.com
- * 03/03/2025
- * 
  * This is the main.c file which contains the test cases
  * for my linked list implementation
  */

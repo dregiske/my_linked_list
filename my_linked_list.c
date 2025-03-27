@@ -1,8 +1,4 @@
 /**
- * Andre Giske
- * andre.giske@yahoo.com
- * 02/27/2025
- * 
  * This is the my_linked_list.c file
  * which contains my implementation of a linked list
  */
